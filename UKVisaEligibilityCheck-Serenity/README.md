@@ -16,6 +16,7 @@
   2. Cucumber 6.9.1
   3. Java 1.8 and higher
   4. Serenity Rest Assured - 2.3.12
+  5. Maven version 3.6.3
 
 # Feature: <br />
    Validate Visa ElibilityCheck for Different nationalities coming to UK for Different purposes <br />
